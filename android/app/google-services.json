@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194994695706",
+    "firebase_url": "https://todoapp-b9b82-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "todoapp-b9b82",
+    "storage_bucket": "todoapp-b9b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194994695706:android:e79ee46e51264429b96ba3",
+        "android_client_info": {
+          "package_name": "com.dima.planshet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194994695706-tu848am8tfuqepma3kujequ7mf00lai1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebDl9CXc4LxANRBp6325W-8Bli_r4nkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194994695706-tu848am8tfuqepma3kujequ7mf00lai1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
